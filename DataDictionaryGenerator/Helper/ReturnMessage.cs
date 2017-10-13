@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace DataDictionaryGenerator
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public struct ReturnMessage
     {
         public bool isSuccess { get; set; }
